@@ -1,0 +1,49 @@
+body {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin: 0px;
+	padding: 0px;
+
+}
+
+.jackblack {
+    display: flex;
+	flex-direction: column;
+	align-items: center;
+	background-color: green;
+	color: white;       
+    border: solid 1px black;
+	width: 400px;
+	height: 400px;
+}
+
+
+h1 {
+	color: gold;
+}
+
+button {
+	border: none;
+	border: solid 1px black;
+	width: 100px;
+	height: 20px;
+	border-color:gold;
+	background: gold;
+    border-radius:10px ;
+		margin-top: 20px;
+	color: green;
+}
+
+#text b{
+	background-color: red;
+	color: blue;
+}
+
+
+.display {
+	background-color: black;
+	color: white;
+	border: none;
+	outline: none;
+}
